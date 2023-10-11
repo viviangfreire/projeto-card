@@ -7,7 +7,7 @@ Essa foi a minha solução para o [NFT preview card component challenge on Front
 
 ### Foto da tela
 
-![](screenshot.png)
+![](images/screenshot.png)
 
 
 ## Meu processo
