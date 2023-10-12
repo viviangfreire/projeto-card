@@ -33,7 +33,8 @@ Projeto feito com o intuito de exercitar HTML5 e Tailwind e me desafiar a achar 
 
 ## Autora
 
-- LinkedIn - [Vivian Freire](https://github.com/viviangfreire)
+- GitHub - [vivian-gfreire](https://github.com/viviangfreire)
+- LinkedIn - [viviangfreire](www.linkedin.com/in/vivian-gfreire)
 
 # Guia de estilização do projeto
 
